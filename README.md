@@ -21,7 +21,6 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 * [JSONView](http://jsonview.com/)
 * [Sublime text](http://www.sublimetext.com/3)
 * [P5](https://github.com/lmccart/p5.js)
-* [jQuery](http://jquery.com/)
 * [Cyberduck](https://cyberduck.io)
 
 
@@ -67,4 +66,16 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - [Tutorials](http://processing.org/tutorials/)
 - [Transition Processing > P5](https://github.com/lmccart/p5.js/wiki/Processing-transition)
 - [Liens vers les libraries P5](http://cdnjs.com/libraries/p5.js)
+- [Liens vers jQuery et autres](https://developers.google.com/speed/libraries/devguide#jquery)
 - [AJAX, JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+
+## New York Times API
+- [Obtenir une clé API](http://developer.nytimes.com)
+- [Article Search API](http://developer.nytimes.com/docs/read/article_search_api_v2)
+
+
+##Google Maps
+- [Obtenir une clé Google API](https://console.developers.google.com)
+- [Google Maps JavaScript API v3](https://developers.google.com/maps/documentation/javascript/basics)
+
+
