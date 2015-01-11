@@ -66,4 +66,5 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - [Learn](http://p5js.org/learn/)
 - [Tutorials](http://processing.org/tutorials/)
 - [Transition Processing > P5](https://github.com/lmccart/p5.js/wiki/Processing-transition)
-
+- [Liens vers les libraries P5](http://cdnjs.com/libraries/p5.js)
+- [AJAX, JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)

@@ -8,5 +8,4 @@ function setup() {
 	println(width, height);
 
 	background(255, 0, 0);
-	point(100,100);
 }
