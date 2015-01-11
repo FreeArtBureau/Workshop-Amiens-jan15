@@ -1,10 +1,6 @@
 Workshop
 ========================
 
-
-
-
-
 ## Jeff Guess
 - [www.guess.fr](http://www.guess.fr)
 - [www.mediamediums.net](http://www.mediamediums.net)
@@ -70,5 +66,4 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - [Learn](http://p5js.org/learn/)
 - [Tutorials](http://processing.org/tutorials/)
 - [Transition Processing > P5](https://github.com/lmccart/p5.js/wiki/Processing-transition)
-
 
