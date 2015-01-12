@@ -20,7 +20,7 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - [Firebug](https://www.getfirebug.com/)
 * [JSONView](http://jsonview.com/)
 * [Sublime text](http://www.sublimetext.com/3)
-* [P5](https://github.com/lmccart/p5.js)
+* [P5](http://p5js.org/download/)
 * [Cyberduck](https://cyberduck.io)
 
 
