@@ -1,4 +1,4 @@
-var Blob2 = function () {
+Blob2 = function () {
    this.x = width/2;
    this.y = height/2;
    this.w = 50;

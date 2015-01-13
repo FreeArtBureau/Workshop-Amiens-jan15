@@ -22,5 +22,6 @@ Blob2.prototype.move = function() {
 };
 
 Blob2.prototype.display = function() {
+    fill(random(255), random(255), random(255));
     ellipse(this.x, this.y, this.w, this.w);
 };

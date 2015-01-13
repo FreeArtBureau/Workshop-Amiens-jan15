@@ -1,4 +1,4 @@
-function Blob(_x, _y, _w, _n, _p) {
+Blob = function (_x, _y, _w, _n, _p) {
    this.x = _x;
    this.y = _y;
    this.w = _w;
@@ -8,7 +8,7 @@ function Blob(_x, _y, _w, _n, _p) {
    this.r = random(255);
    this.v = random(255);
    this.b = random(255);
-}
+};
 
 /* move permet de faire un mouvement Brownien */ 
 Blob.prototype.move = function() {

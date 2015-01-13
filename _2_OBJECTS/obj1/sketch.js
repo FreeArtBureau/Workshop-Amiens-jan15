@@ -13,6 +13,7 @@ function setup() {
   stroke(255);
 }
 
+
 function draw() {
   background(50);
 

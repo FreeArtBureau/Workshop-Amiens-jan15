@@ -1,12 +1,10 @@
-function Blob () {
-   var x, y, w, neg, pos;
-
+Blob = function () {
    this.x = width/2;
    this.y = height/2;
    this.w = 50;
    this.neg = -10;
    this.pos = 10;
-}
+};
 
 Blob.prototype.move = function() {
     this.x = this.x + random(this.neg, this.pos);

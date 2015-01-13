@@ -1,9 +1,9 @@
-Blob = function () {
-   this.x = width/2;
-   this.y = height/2;
-   this.w = 50;
-   this.neg = -10;
-   this.pos = 10;
+Blob = function(_x, _y, _w, _n, _p) {
+   this.x = _x;
+   this.y = _y;
+   this.w = _w;
+   this.neg = _n;
+   this.pos = _p;
 };
 
 Blob.prototype.move = function() {
@@ -12,5 +12,6 @@ Blob.prototype.move = function() {
 };
 
 Blob.prototype.display = function() {
+	fill(125);
     ellipse(this.x, this.y, this.w, this.w);
 };
