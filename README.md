@@ -33,7 +33,7 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 	- **Package > Install Package >**
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 	- Un menu avec une fonctionalité plus fournie
-- [CodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 	- autocompleter
 - [Processing Bundle for Sublime Text](https://github.com/b-g/processing-sublime)
 - [SublimeLinter](http://www.sublimelinter.com/en/latest/)
@@ -41,10 +41,17 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 ##Installer [SublimeLinter-jshint](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 - Installer [node.js](http://nodejs.org/download/)
 - (Mac) Ouvrir Applications > **Terminal**
-- (PC) Ouvrir Start > All Programs > Accessories > **Command prompt**
+- (PC Windows 8) Clic droit sur l'icône démarrer > Invite de commande
+	- (PC tuto) [http://blog.lesieur.name/installer-et-utiliser-nodejs-sous-windows/]
+	- (PC) changer repertoire vers celui de node 
+		- cd C:\nodejs\
+		- tester avec 
+			- node --version
+			- npm --version
 - Installer jshint
 	- **npm install -g jshint** dans le console
 - **Package > Install Package > SublimeLinter-jshint**
+- (PC) redémarrer
 
 
 
@@ -59,6 +66,9 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - ctrl + cmd + down - déplacer ligne vers le bas
 - cmd + numéro - aller à un onglet
 - shift + cmd + f - rechercher danstout le projet
+- cmd + d selectionner toutes les occurences d'un mot 
+- cmd + ctrl + g - selectionner et modifier toutes les occurences d'un mot
+
 
 ##P5
 - [Get Started](http://p5js.org/get-started/)
