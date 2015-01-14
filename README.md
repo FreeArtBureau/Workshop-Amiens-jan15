@@ -89,7 +89,7 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - OpenWeatherMap
 	- [http://openweathermap.org/API](http://openweathermap.org/API)
 - Daniel Shiffman
-	- [APIs week 6](https://github.com/shiffman/Programming-from-A-to-Z-F14])
+	- [APIs week 6](https://github.com/shiffman/Programming-from-A-to-Z-F14)
 - Programmableweb
 	- [Repertoire d'APIs](http://www.programmableweb.com/apis/directory)
 	
