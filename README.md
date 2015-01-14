@@ -83,17 +83,13 @@ Un workshop où il s'agit de faire la transition de Processing à P5, et d'appre
 - New York Times API
 	- [Obtenir une clé API](http://developer.nytimes.com)
 	- [Article Search API](http://developer.nytimes.com/docs/read/article_search_api_v2)
-
 - Google Maps
 	- [Obtenir une clé Google API](https://console.developers.google.com)
 	- [Google Maps JavaScript API v3](https://developers.google.com/maps/documentation/javascript/basics)
-
 - OpenWeatherMap
 	- [http://openweathermap.org/API](http://openweathermap.org/API)
-
 - Daniel Shiffman
 	- [APIs week 6](https://github.com/shiffman/Programming-from-A-to-Z-F14])
-	
 - Programmableweb
 	- [Repertoire d'APIs](http://www.programmableweb.com/apis/directory)
 	
