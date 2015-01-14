@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess                    //
+// pratiques-algorithmiques.net  //
+// github.com/jguess             //
+///////////////////////////////////
+
 function Blob(_x, _y, _w, _n, _p) {
    this.x = _x;
    this.y = _y;

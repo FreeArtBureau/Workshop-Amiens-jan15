@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess                    //
+// pratiques-algorithmiques.net  //
+// github.com/jguess             //
+///////////////////////////////////
+
 function setup() {
   	createCanvas(windowWidth, windowHeight);
   
@@ -5,7 +11,7 @@ function setup() {
 
   	$.ajax({
         type: "GET",
-        url: "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=paris&api-key=" + cle_api + "&callback=nyt",
+        url: "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=&api-key=" + cle_api + "&callback=nyt",
         dataType: "json",
         success: nyt
     });
@@ -13,6 +19,6 @@ function setup() {
 
 function nyt(obj) {  
 	println(obj);
-	// println(obj.response);
-	// println(obj.response.docs);
+  // println(obj.response);
+  // println(obj.response.docs);
 }

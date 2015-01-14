@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess                    //
+// pratiques-algorithmiques.net  //
+// github.com/jguess             //
+///////////////////////////////////
+
 var blob, blob2;
 
 function setup() {

@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess					 //
+// pratiques-algorithmiques.net  //
+// github.com/jguess			 //
+///////////////////////////////////
+
 function BlobManager() {
   
   this.blob = [];

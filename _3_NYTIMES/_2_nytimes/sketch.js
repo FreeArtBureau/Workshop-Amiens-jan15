@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess					 //
+// pratiques-algorithmiques.net  //
+// github.com/jguess			 //
+///////////////////////////////////
+
 function setup() {
   	createCanvas(windowWidth, windowHeight);
   
@@ -17,12 +23,8 @@ function nyt(obj) {
 	// println(obj.response.docs);
 
      $(obj.response.docs).each(function(i, v) {
-		
-		// println(i);
-		// println(v.lead_paragraph);
-		
-		if (v.lead_paragraph !== null) {
-			println(v.lead_paragraph);
-		}
+		 println(i);
+		 println(v.lead_paragraph);
+		 println(v.word_count);
 	 });
 }

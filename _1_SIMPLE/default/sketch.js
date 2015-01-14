@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess					 //
+// pratiques-algorithmiques.net  //
+// github.com/jguess			 //
+///////////////////////////////////
+
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 

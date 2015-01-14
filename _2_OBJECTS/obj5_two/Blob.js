@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess					 //
+// pratiques-algorithmiques.net  //
+// github.com/jguess			 //
+///////////////////////////////////
+
 Blob = function () {
    this.x = width/2;
    this.y = height/2;

@@ -1,3 +1,9 @@
+///////////////////////////////////
+// Jeff Guess					 //
+// pratiques-algorithmiques.net  //
+// github.com/jguess			 //
+///////////////////////////////////
+
 var mesTextes = [];
 var timerId;
 var tt;
@@ -16,12 +22,9 @@ function setup() {
     });
 
     timerId = setInterval(change, 7000); 
-    
 }
 
 function nyt(obj) {  
-
-	// println(obj.response.docs);
 
      $(obj.response.docs).each(function(i, v) {
 		
